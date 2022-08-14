@@ -1,0 +1,101 @@
+,ticker,name,primary_exchange,currency_name,cik
+0,A,Agilent Technologies Inc.,XNYS,usd,0001090872
+1,AA,Alcoa Corporation,XNYS,usd,0001675149
+2,AAC,Ares Acquisition Corporation,XNYS,usd,0001829432
+3,AACI,Armada Acquisition Corp. I Common Stock,XNAS,usd,0001844817
+4,AADI,"Aadi Bioscience, Inc. Common Stock",XNAS,usd,0001422142
+5,AAIC,Arlington Asset Investment Corp.,XNYS,usd,0001209028
+6,AAL,American Airlines Group Inc.,XNAS,usd,0000006201
+7,AAMC,Altisource Asset Mgmt Corp,XASE,usd,0001555074
+8,AAME,Atlantic American Corp,XNAS,usd,0000008177
+9,AAN,"The Aaron's Company, Inc.",XNYS,usd,0001821393
+10,AAOI,"Applied Optoelectronics, Inc.",XNAS,usd,0001158114
+11,AAON,Aaon Inc,XNAS,usd,0000824142
+12,AAP,ADVANCE AUTO PARTS INC,XNYS,usd,0001158449
+13,AAPL,Apple Inc.,XNAS,usd,0000320193
+14,AAQC,Accelerate Acquisition Corp.,XNYS,usd,0001838883
+15,AAT,"AMERICAN ASSETS TRUST, INC.",XNYS,usd,0001500217
+16,AATC,Autoscope Technologies Corporation Common Stock,XNAS,usd,0000943034
+17,AAU,Almaden Minerals Ltd.,XASE,usd,0001015647
+18,AAWW,"Atlas Air Worldwide Holdings, Inc.",XNAS,usd,0001135185
+19,AB,"AllianceBernstein Holding, L.P.",XNYS,usd,0000825313
+20,ABBV,ABBVIE INC.,XNYS,usd,0001551152
+21,ABC,AmerisourceBergen Corp.,XNYS,usd,0001140859
+22,ABCB,Ameris Bancorp,XNAS,usd,0000351569
+23,ABCL,AbCellera Biologics Inc. Common Shares,XNAS,usd,0001703057
+24,ABEO,Abeona Therapeutics Inc. Common Stock,XNAS,usd,0000318306
+25,ABG,"Asbury Automotive Group, Inc.",XNYS,usd,0001144980
+26,ABGI,ABG Acquisition Corp. I Class A Ordinary Shares,XNAS,usd,0001833764
+27,ABIO,"ARCA biopharma, Inc.",XNAS,usd,0000907654
+28,ABM,"ABM Industries, Inc.",XNYS,usd,0000771497
+29,ABMD,Abiomed Inc,XNAS,usd,0000815094
+30,ABNB,"Airbnb, Inc. Class A Common Stock",XNAS,usd,0001559720
+31,ABOS,"Acumen Pharmaceuticals, Inc. Common Stock",XNAS,usd,0001576885
+32,ABR,"Arbor Realty Trust, Inc.",XNYS,usd,0001253986
+33,ABSI,Absci Corporation Common Stock,XNAS,usd,0001672688
+34,ABST,Absolute Software Corporation Common Stock,XNAS,usd,0001071058
+35,ABT,Abbott Laboratories,XNYS,usd,0000001800
+36,ABTX,"Allegiance Bancshares, Inc.",XNAS,usd,0001642081
+37,ABUS,Arbutus Biopharma Corporation Common Stock,XNAS,usd,0001447028
+38,ABVC,"ABVC BioPharma, Inc. Common Stock",XNAS,usd,0001173313
+39,AC,"Associated Capital Group, Inc.",XNYS,usd,0001642122
+40,ACA,"Arcosa, Inc. Common Stock",XNYS,usd,0001739445
+41,ACAB,Atlantic Coastal Acquisition Corp. II Class A Common Stock,XNAS,usd,0001893219
+42,ACAC,Acri Capital Acquisition Corporation Class A Common Stock,XNAS,usd,0001914023
+43,ACAD,Acadia Pharmaceuticals Inc.,XNAS,usd,0001070494
+44,ACAH,Atlantic Coastal Acquisition Corp. Class A Common Stock,XNAS,usd,0001836274
+45,ACAQ,Athena Consumer Acquisition Corp.,XNYS,usd,0001869141
+46,ACAX,Alset Capital Acquisition Corp. Class A Common Stock,XNAS,usd,0001897245
+47,ACB,Aurora Cannabis Inc. Common Shares,XNAS,usd,0001683541
+48,ACBA,Ace Global Business Acquisition Limited Ordinary Shares,XNAS,usd,0001844389
+49,ACCD,"Accolade, Inc. Common Stock",XNAS,usd,0001481646
+50,ACCO,Acco Brands Corporation,XNYS,usd,0000712034
+51,ACDI,Ascendant Digital Acquisition Corp. III,XNYS,usd,0001850316
+52,ACEL,"Accel Entertainment, Inc.",XNYS,usd,0001698991
+53,ACER,Acer Therapeutics Inc. Common Stock (DE),XNAS,usd,0001069308
+54,ACET,"Adicet Bio, Inc. Common Stock",XNAS,usd,0001720580
+55,ACEV,ACE Convergence Acquisition Corp. Class A Ordinary Shares,XNAS,usd,0001813658
+56,ACGL,Arch Capital Group Ltd,XNAS,usd,0000947484
+57,ACHC,"Acadia Healthcare Company, Inc.",XNAS,usd,0001520697
+58,ACHR,Archer Aviation Inc.,XNYS,usd,0001824502
+59,ACHV,"Achieve Life Sciences, Inc.",XNAS,usd,0000949858
+60,ACI,"Albertsons Companies, Inc.",XNYS,usd,0001646972
+61,ACII,Atlas Crest Investment Corp. II,XNYS,usd,0001838614
+62,ACIU,AC Immune SA,XNAS,usd,0001651625
+63,ACIW,"ACI Worldwide, Inc.",XNAS,usd,0000935036
+64,ACLS,Axcelis Technologies Inc,XNAS,usd,0001113232
+65,ACLX,"Arcellx, Inc. Common Stock",XNAS,usd,0001786205
+66,ACM,Aecom,XNYS,usd,0000868857
+67,ACMR,"ACM Research, Inc. Class A Common Stock",XNAS,usd,0001680062
+68,ACN,Accenture PLC,XNYS,usd,0001467373
+69,ACNB,ACNB Corp,XNAS,usd,0000715579
+70,ACNT,Ascent Industries Co. Common Stock,XNAS,usd,0000095953
+71,ACON,"Aclarion, Inc. Common Stock",XNAS,usd,0001635077
+72,ACOR,"Acorda Therapeutics, Inc.",XNAS,usd,0001008848
+73,ACQR,Independence Holdings Corp. Class A Ordinary Share,XNAS,usd,0001837393
+74,ACR,ACRES Commercial Realty Corp.,XNYS,usd,0001332551
+75,ACRE,Ares Commercial Real Estate Corporation,XNYS,usd,0001529377
+76,ACRO,Acropolis Infrastructure Acquisition Corp.,XNYS,usd,0001847891
+77,ACRS,"Aclaris Therapeutics, Inc.",XNAS,usd,0001557746
+78,ACRX,"AcelRx Pharmaceuticals, Inc",XNAS,usd,0001427925
+79,ACST,"Acasti Pharma, Inc.",XNAS,usd,0001444192
+80,ACT,"Enact Holdings, Inc. Common Stock",XNAS,usd,0001823529
+81,ACTG,Acacia Research Corporation,XNAS,usd,0000934549
+82,ACU,Acme United Corporation,XASE,usd,0000002098
+83,ACVA,ACV Auctions Inc. Class A Common Stock,XNAS,usd,0001637873
+84,ACXP,"Acurx Pharmaceuticals, Inc. Common Stock",XNAS,usd,0001736243
+85,ADAL,Anthemis Digital Acquisitions I Corp Class A Ordinary Shares,XNAS,usd,0001853928
+86,ADBE,Adobe Inc.,XNAS,usd,0000796343
+87,ADC,Agree Realty Corporation,XNYS,usd,0000917251
+88,ADCT,ADC Therapeutics SA,XNYS,usd,0001771910
+89,ADER,26 Capital Acquisition Corp. Class A Common Stock,XNAS,usd,0001822912
+90,ADES,"Advanced Emissions Solutions, Inc",XNAS,usd,0001515156
+91,ADEX,Adit EdTech Acquisition Corp,XNYS,usd,0001830029
+92,ADGI,"Adagio Therapeutics, Inc. Common Stock",XNAS,usd,0001832038
+93,ADI,"Analog Devices, Inc.",XNAS,usd,0000006281
+94,ADIL,"Adial Pharmaceuticals, Inc",XNAS,usd,0001513525
+95,ADM,Archer Daniels Midland Company,XNYS,usd,0000007084
+96,ADMA,"ADMA Biologics, Inc.",XNAS,usd,0001368514
+97,ADMP,Adamis Pharmaceuticals Corporation,XNAS,usd,0000887247
+98,ADN,"Advent Technologies Holdings, Inc. Class A Common Stock",XNAS,usd,0001744494
+99,ADNT,Adient plc Ordinary Shares,XNYS,usd,0001670541
